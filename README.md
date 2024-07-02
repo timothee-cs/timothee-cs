@@ -1,3 +1,2 @@
 - 2nd cs student
 - learning python
-- interest in css
